@@ -1,0 +1,13 @@
+{
+    "name": "user/hotel-management-system",
+    "description": "Hotel Booking System",
+    "authors": [
+        {
+            "name": "Tasfia-Samrin",
+            "email": "tasfiasamrin24@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
