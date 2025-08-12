@@ -75,4 +75,22 @@ C:\xampp\htdocs\Hotel-Management-System
 Visit `http://localhost/phpmyadmin`
  Create database `hms`
  Import `hms.sql` file provided in the project
+Step 5: Install Dependencies
+In CMD or terminal:
+```bash
 
+#cd C:\xampp\htdocs\Hotel-Management-System
+#composer install
+#This installs:
+#-PHPMailer
+#-PHP Dotenv
+Step 6: Configure .env File
+Copy .env.example to .env
+Paste your Gmail + App Password:
+.env
+MAIL_USERNAME=your-email@gmail.com
+MAIL_PASSWORD=your-16-digit-app-password
+
+# must enable 2-step verification in Gmail and use an App Password: https://myaccount.google.com/apppasswords
+
+Step 7: Run the Application
