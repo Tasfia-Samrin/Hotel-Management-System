@@ -13,7 +13,7 @@ Tayeba Hasan                2211963042
 
 
 
-#  Sunrise Hotel Management System
+#  RoomFlow: Hotel Management & Booking System 
 A full-featured hotel management platform built with PHP, MySQL, and Object-Oriented Design Patterns, supporting guests, employees, and admins. Real-time email notifications and secure access via role-based logic make this system suitable for hotel operations.
 
 ---
